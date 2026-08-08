@@ -14,29 +14,6 @@ I'm a 3rd Year UnderGraduate student in Artificial Intelligence and Data Science
 - 💬 Ask me about Machine Learning, Data Science, and AI
 - 📫 How to reach me: ud12714@gmail.com
 
-## 🛠 Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
-
-## 📊 GitHub Stats
-
-[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utsav-CODE-BOT&show_icons=true&theme=radical)](https://github.com/Utsav-CODE-BOT)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav-CODE-BOT&layout=compact&theme=radical)](https://github.com/Utsav-CODE-BOT)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utsav-CODE-BOT&theme=radical)](https://github.com/Utsav-CODE-BOT)
-
 ## 🤝 Connect with me
 
 <p align="center">
