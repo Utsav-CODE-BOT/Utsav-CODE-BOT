@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Utsav-CODE-BOT's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 [![MLOps Pipeline](https://raw.githubusercontent.com/Utsav-CODE-BOT/Utsav-CODE-BOT/output/github-contribution-grid-snake.svg)](https://github.com/Utsav-CODE-BOT)
 
 # Hi there 👋, I'm Utsav D
